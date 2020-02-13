@@ -7,4 +7,5 @@ end
 
 def take_a_number(array, name)
   count = 1 
-  
+  array.each do |yee|
+    puts ""
