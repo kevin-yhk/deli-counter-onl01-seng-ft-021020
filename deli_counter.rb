@@ -10,3 +10,5 @@ def take_a_number(array, name)
   puts "The line is currently"
   array.each do |yee|
     puts "#{count}. #{name}"
+  end
+end
