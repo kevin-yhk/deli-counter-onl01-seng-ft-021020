@@ -7,6 +7,6 @@ def line(array)
       yee<<"#{counter}. #{name}"
       counter += 1 
   end
-  puts ""
+  puts "The line is currently: #{"
 end
 
