@@ -7,6 +7,8 @@ def line(array)
       yee<<"#{counter}. #{name}"
       counter += 1 
   end
-  puts "The line is currently: #{"
+  puts "The line is currently: #{yee.join(" "}."
+else
+  "The line is currently empty."
 end
 
