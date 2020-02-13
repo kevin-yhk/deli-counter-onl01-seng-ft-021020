@@ -9,6 +9,7 @@ def take_a_number(array, name)
   count = 1 
   puts "The line is currently"
   array.each do |yee|
-    puts "#{count}. #{name}"
+    puts #{count}. #{name}"
+  count += 1
   end
 end
