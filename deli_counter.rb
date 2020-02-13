@@ -6,9 +6,10 @@ def line(array)
     array.each do |name|
       yee<<"#{counter}. #{name}"
       counter += 1 
-  end
+    end
   puts "The line is currently: #{yee.join(" "}."
 else
   "The line is currently empty."
+end
 end
 
