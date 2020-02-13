@@ -4,7 +4,7 @@ def line(array)
     yee = []
     counter = 1 
     array.each do |name|
-      yee<<"#{counter"
+      yee<<"#{counter}. #{name}"
   end
 end
 
