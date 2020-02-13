@@ -9,7 +9,7 @@ def line(array)
     end
   puts "The line is currently: #{yee.join(" "}."
   else
-  "The line is currently empty."
+    puts "The line is currently empty."
   end
 end
 
