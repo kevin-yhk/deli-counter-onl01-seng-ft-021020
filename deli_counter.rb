@@ -8,8 +8,8 @@ def line(array)
       counter += 1 
     end
   puts "The line is currently: #{yee.join(" "}."
-else
+  else
   "The line is currently empty."
-end
+  end
 end
 
